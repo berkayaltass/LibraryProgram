@@ -2,6 +2,10 @@
 
 Kütüphane Takip Programı içerisinde "kitapalan.xlsx", "kitaplar.xlsx", "üyeler.xlsx" ve "LibraryProgram.py" dosyalarını içermektedir.
 
+Programı kullanabilmek için openpyxl kütüphanesinin yüklenmesi gerekmektedir. Kütüphanenin yüklenmesi için aşağıdaki komut terminal ekranında çalıştırılabilir :
+
+pip3 install openpyxl
+
 Program her açılışta kullanıcıdan şifre istemektedir. Programı kullanmak için gerekli olan şifre : 
 
 "1071" dir.

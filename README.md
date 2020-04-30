@@ -5,3 +5,19 @@ Kütüphane Takip Programı içerisinde "kitapalan.xlsx", "kitaplar.xlsx", "üye
 Program her açılışta kullanıcıdan şifre istemektedir. Programı kullanmak için gerekli olan şifre : 
 
 "1071" dir.
+
+Ayarlı olarak verilen şifre, projenin kaynak kodlarından değiştirilebilir veya kaldırılabilir.
+
+Program içerisinde aşağıdaki bölümler bulunmaktadır : 
+
+(1) Kütüphaneye Üye Ekle
+(2) Kütüphaneden Üye Çıkar
+(3) Kitap Ekle
+(4) Kitap Çıkar
+(5) Kitap Alacak Üye Ekle
+(6) Kitap Bırakacak Üye Çıkar
+(7) Kitap Ara
+(8) Üye Ara
+
+Program üzerinde yapılan işlemler "kitapalan.xlsx", "kitaplar.xlsx" ve "üyeler.xlsx" dosyalarına kaydedilmektedir. Bu dosyalar üzerinden işlemlerin takibi yapılabilir.
+

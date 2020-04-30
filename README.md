@@ -10,14 +10,22 @@ Ayarlı olarak verilen şifre, projenin kaynak kodlarından değiştirilebilir v
 
 Program içerisinde aşağıdaki bölümler bulunmaktadır : 
 
-(1) Kütüphaneye Üye Ekle\n
+(1) Kütüphaneye Üye Ekle
+
 (2) Kütüphaneden Üye Çıkar
+
 (3) Kitap Ekle
+
 (4) Kitap Çıkar
+
 (5) Kitap Alacak Üye Ekle
+
 (6) Kitap Bırakacak Üye Çıkar
+
 (7) Kitap Ara
+
 (8) Üye Ara
+
 
 Program üzerinde yapılan işlemler "kitapalan.xlsx", "kitaplar.xlsx" ve "üyeler.xlsx" dosyalarına kaydedilmektedir. Bu dosyalar üzerinden işlemlerin takibi yapılabilir.
 
